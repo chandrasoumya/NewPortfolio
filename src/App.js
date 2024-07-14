@@ -33,13 +33,17 @@ const App = () => {
       </header>
 
       <section className="bg-white dark:bg-gray-800 py-20" id="home">
-        <div className="container mx-auto text-center">
+        <div className="container mx-auto text-center ">
           <h1 className="text-4xl font-semibold text-gray-900 dark:text-gray-100">
             I'm
           </h1>
-          <h2 className="text-4xl font-semibold text-gray-900 dark:text-gray-100">
-            <span className="text-blue-500">S</span>oumyadeep
-            <span className="text-blue-500">C</span>handra
+          <h2 className="text-4xl font-semibold text-gray-900 dark:text-gray-100 flex flex-wrap items-center justify-center">
+            <div>
+              <span className="text-blue-500 ">S</span>oumyadeep
+            </div>
+            <div>
+              <span className="text-blue-500">C</span>handra
+            </div>
           </h2>
           <p className="text-gray-600 dark:text-gray-300 max-w-xl mx-auto p-1">
             A budding web developer embarking on a coding journey, eagerly
