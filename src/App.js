@@ -42,12 +42,12 @@ const App = () => {
             <span className="text-blue-500">C</span>handra
           </h2>
           <p className="text-gray-600 dark:text-gray-300 max-w-xl mx-auto p-1">
-            A budding web developer embarks on a coding journey, eagerly
-            mastering HTML, CSS, and JavaScript. Learning React for mastering
-            frontend development and nodejs for backend development. Also
-            learning various databases like MySql and MongoDb. Masering Data
-            Structures and Algoriths in Java. Exploring the world of blockchain
-            using Solidity in Ethereum.
+            A budding web developer embarking on a coding journey, eagerly
+            mastering HTML, CSS, and JavaScript. Learning React to excel in
+            frontend development and Node.js for backend development. Also
+            gaining expertise in databases like MySQL and MongoDB. Mastering
+            Data Structures and Algorithms in Java. Exploring the world of
+            blockchain technology using Solidity on Ethereum.
           </p>
         </div>
       </section>
